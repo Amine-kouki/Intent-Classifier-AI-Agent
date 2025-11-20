@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Dependencies
+venv/
+.venv/
+env/
+
+# Jupyter Notebooks / Colab
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environments and secrets
+.env
+.DS_Store
+
+# Google Colab specific
+drive/ # IMPORTANT: If you mount your Drive, ignore the mounted folder

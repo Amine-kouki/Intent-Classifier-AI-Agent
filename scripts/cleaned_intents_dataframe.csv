@@ -1,0 +1,447 @@
+category,intent,text,cleaned_text
+software_issue,cannot_login,I can't log in,i can't log in
+software_issue,cannot_login,My password isn't working,my password isn't working
+software_issue,cannot_login,I'm locked out of my account,i'm locked out of my account
+software_issue,cannot_login,It says my credentials are invalid,it says my credentials are invalid
+software_issue,cannot_login,I forgot my password,i forgot my password
+software_issue,cannot_login,My login isn't being accepted,my login isn't being accepted
+software_issue,cannot_login,The system won't let me in,the system won't let me in
+software_issue,cannot_login,I keep getting an 'access denied' message,i keep getting an 'access denied' message
+software_issue,cannot_login,I need a password reset,i need a password reset
+software_issue,cannot_login,It says my account is disabled,it says my account is disabled
+software_issue,cannot_login,I'm stuck on the login screen,i'm stuck on the login screen
+software_issue,cannot_login,My two-factor authentication isn't working,my two-factor authentication isn't working
+software_issue,cannot_login,I get a 'wrong username or password' error,i get a 'wrong username or password' error
+software_issue,cannot_login,I changed my password and now it doesn't work,i changed my password and now it doesn't work
+software_issue,cannot_login,The login page just keeps refreshing,the login page just keeps refreshing
+software_issue,application_crash,The program keeps crashing,the program keeps crashing
+software_issue,application_crash,My software keeps closing unexpectedly,my software keeps closing unexpectedly
+software_issue,application_crash,I keep getting an error message and then it closes,i keep getting an error message and then it closes
+software_issue,application_crash,It freezes and I have to force quit,it freezes and i have to force quit
+software_issue,application_crash,The application is not responding,the application is not responding
+software_issue,application_crash,It just shuts down randomly while I'm working,it just shuts down randomly while i'm working
+software_issue,application_crash,I get a pop-up that says [Application] has stopped working,i get a pop-up that says application has stopped working
+software_issue,application_crash,My screen goes grey and I have to restart the program,my screen goes grey and i have to restart the program
+software_issue,application_crash,It hangs every time I try to open a specific file,it hangs every time i try to open a specific file
+software_issue,application_crash,I click on it and nothing happens,i click on it and nothing happens
+software_issue,application_crash,It was working fine and then it just closed,it was working fine and then it just closed
+software_issue,application_crash,I get a fatal error and the program quits,i get a fatal error and the program quits
+software_issue,application_crash,It freezes my whole computer for a minute,it freezes my whole computer for a minute
+software_issue,application_crash,The application keeps crashing on startup,the application keeps crashing on startup
+software_issue,application_crash,It's become totally unresponsive,it's become totally unresponsive
+software_issue,slow_performance ,My computer is really slow,my computer is really slow
+software_issue,slow_performance ,Everything is lagging,everything is lagging
+software_issue,slow_performance ,It takes forever to open programs,it takes forever to open programs
+software_issue,slow_performance ,The mouse and keyboard are delayed,the mouse and keyboard are delayed
+software_issue,slow_performance ,My applications are freezing for a few seconds,my applications are freezing for a few seconds
+software_issue,slow_performance ,It's taking a long time to start up,it's taking a long time to start up
+software_issue,slow_performance ,The fan is really loud and it's running slow,the fan is really loud and it's running slow
+software_issue,slow_performance ,I click on things and nothing happens right away,i click on things and nothing happens right away
+software_issue,slow_performance ,Web pages are loading very slowly,web pages are loading very slowly
+software_issue,slow_performance ,It feels like my computer is crawling,it feels like my computer is crawling
+software_issue,slow_performance ,Files take forever to save or open,files take forever to save or open
+software_issue,slow_performance ,There's a spinning wheel all the time,there's a spinning wheel all the time
+software_issue,slow_performance ,It's become sluggish and unresponsive,it's become sluggish and unresponsive
+software_issue,slow_performance ,The computer can't keep up with my typing,the computer can't keep up with my typing
+software_issue,slow_performance ,Simple tasks are taking an unusually long time,simple tasks are taking an unusually long time
+software_issue,email_sync_issue ,My emails aren't showing up on my phone,my emails aren't showing up on my phone
+software_issue,email_sync_issue ,I sent an email but the recipient didn't get it,i sent an email but the recipient didn't get it
+software_issue,email_sync_issue ,I'm not receiving any new emails,i'm not receiving any new emails
+software_issue,email_sync_issue ,My inbox isn't updating,my inbox isn't updating
+software_issue,email_sync_issue ,Emails I delete on my computer are still on my phone,emails i delete on my computer are still on my phone
+software_issue,email_sync_issue ,The sent folder is empty on one of my devices,the sent folder is empty on one of my devices
+software_issue,email_sync_issue ,I keep getting a 'sync error' message,i keep getting a 'sync error' message
+software_issue,email_sync_issue ,My read/unread status isn't syncing across devices,my read/unread status isn't syncing across devices
+software_issue,email_sync_issue ,My Outlook keeps asking for my password,my outlook keeps asking for my password
+software_issue,email_sync_issue ,My email is stuck on 'loading' or 'syncing',my email is stuck on 'loading' or 'syncing'
+software_issue,email_sync_issue ,Old emails are missing from my inbox,old emails are missing from my inbox
+software_issue,email_sync_issue ,I'm not getting notifications for new emails,i'm not getting notifications for new emails
+software_issue,email_sync_issue ,My folders aren't syncing properly,my folders aren't syncing properly
+software_issue,email_sync_issue ,There's a delay when I send or receive emails,there's a delay when i send or receive emails
+software_issue,email_sync_issue ,My calendar isn't syncing with my email,my calendar isn't syncing with my email
+software_issue,no_internet_access,I have no internet connection,i have no internet connection
+software_issue,no_internet_access,The Wi-Fi is down,the wi-fi is down
+software_issue,no_internet_access,It says I'm connected but there's no internet,it says i'm connected but there's no internet
+software_issue,no_internet_access,I can't get online,i can't get online
+software_issue,no_internet_access,My internet isn't working,my internet isn't working
+software_issue,no_internet_access,The network is connected but I can't load anything,the network is connected but i can't load anything
+software_issue,no_internet_access,"It says 'No Internet, Secured'","it says 'no internet, secured'"
+software_issue,no_internet_access,Web pages won't load,web pages won't load
+software_issue,no_internet_access,I have a red X over my network icon,i have a red x over my network icon
+software_issue,no_internet_access,I'm connected to the Wi-Fi but it says no internet access,i'm connected to the wi-fi but it says no internet access
+software_issue,no_internet_access,The internet is really slow and then it cuts out,the internet is really slow and then it cuts out
+software_issue,no_internet_access,I keep getting disconnected from the network,i keep getting disconnected from the network
+software_issue,no_internet_access,My computer won't connect to the Wi-Fi at all,my computer won't connect to the wi-fi at all
+software_issue,no_internet_access,It says 'DNS_PROBE_FINISHED_NO_INTERNET',it says 'dns_probe_finished_no_internet'
+software_issue,no_internet_access,The Ethernet cable is plugged in but I have no connection,the ethernet cable is plugged in but i have no connection
+software_issue,printer_driver_error ,It says I'm missing a printer driver,it says i'm missing a printer driver
+software_issue,printer_driver_error ,The printer is showing as 'offline',the printer is showing as 'offline'
+software_issue,printer_driver_error ,I get an error about an 'unidentified printer',i get an error about an 'unidentified printer'
+software_issue,printer_driver_error ,My print comes out as garbled text or symbols,my print comes out as garbled text or symbols
+software_issue,printer_driver_error ,It says the driver is unavailable,it says the driver is unavailable
+software_issue,printer_driver_error ,Windows can't find the printer driver,windows can't find the printer driver
+software_issue,printer_driver_error ,I get a 'driver is unavailable' message,i get a 'driver is unavailable' message
+software_issue,printer_driver_error ,The print job fails with a driver error,the print job fails with a driver error
+software_issue,printer_driver_error ,My printer isn't recognized after an update,my printer isn't recognized after an update
+software_issue,printer_driver_error ,I get a 'print processor does not exist' error,i get a 'print processor does not exist' error
+software_issue,printer_driver_error ,It says the driver is corrupted,it says the driver is corrupted
+software_issue,printer_driver_error ,I can see the printer but can't print to it,i can see the printer but can't print to it
+software_issue,printer_driver_error ,The printer driver needs to be updated,the printer driver needs to be updated
+software_issue,printer_driver_error ,I get an 'access denied' error when printing,i get an 'access denied' error when printing
+software_issue,printer_driver_error ,The print spooler keeps stopping,the print spooler keeps stopping
+software_issue,vpn_connection_failed ,I can't connect to the VPN,i can't connect to the vpn
+software_issue,vpn_connection_failed ,My VPN keeps failing to connect,my vpn keeps failing to connect
+software_issue,vpn_connection_failed ,It says 'authentication failed' for the VPN,it says 'authentication failed' for the vpn
+software_issue,vpn_connection_failed ,I get a 'connection timed out' error for the VPN,i get a 'connection timed out' error for the vpn
+software_issue,vpn_connection_failed ,The VPN gets stuck on 'connecting',the vpn gets stuck on 'connecting'
+software_issue,vpn_connection_failed ,My VPN credentials aren't working,my vpn credentials aren't working
+software_issue,vpn_connection_failed ,It says 'no internet access' when connected to the VPN,it says 'no internet access' when connected to the vpn
+software_issue,vpn_connection_failed ,I can connect to the VPN but can't access internal sites,i can connect to the vpn but can't access internal sites
+software_issue,vpn_connection_failed ,The VPN client says 'server not found',the vpn client says 'server not found'
+software_issue,vpn_connection_failed ,I get an error about a 'bad username or password' for the VPN,i get an error about a 'bad username or password' for the vpn
+software_issue,vpn_connection_failed ,My VPN connection drops randomly,my vpn connection drops randomly
+software_issue,vpn_connection_failed ,It says I need to update my VPN client,it says i need to update my vpn client
+software_issue,vpn_connection_failed ,The VPN won't start or launch properly,the vpn won't start or launch properly
+software_issue,vpn_connection_failed ,I get a 'remote gateway is not responding' error,i get a 'remote gateway is not responding' error
+software_issue,vpn_connection_failed ,My computer says the VPN adapter is missing,my computer says the vpn adapter is missing
+software_issue,software_not_responding ,The program is frozen,the program is frozen
+software_issue,software_not_responding ,It says '(Not Responding)' in the title bar,it says ' not responding ' in the title bar
+software_issue,software_not_responding ,I can't click on anything in the software,i can't click on anything in the software
+software_issue,software_not_responding ,The window is greyed out,the window is greyed out
+software_issue,software_not_responding ,My cursor is a spinning wheel over the program,my cursor is a spinning wheel over the program
+software_issue,software_not_responding ,The application is hung,the application is hung
+software_issue,software_not_responding ,It's stuck and I can't close it,it's stuck and i can't close it
+software_issue,software_not_responding ,I get the 'spinning beach ball' and can't do anything,i get the 'spinning beach ball' and can't do anything
+software_issue,software_not_responding ,The software has locked up,the software has locked up
+software_issue,software_not_responding ,I can't type or select anything in the window,i can't type or select anything in the window
+software_issue,software_not_responding ,It freezes every time I try to use a specific feature,it freezes every time i try to use a specific feature
+software_issue,software_not_responding ,The program is open but the screen is white/blank,the program is open but the screen is white/blank
+software_issue,software_not_responding ,It becomes completely unresponsive after a few minutes,it becomes completely unresponsive after a few minutes
+software_issue,software_not_responding ,I have to use Task Manager to force it to close,i have to use task manager to force it to close
+software_issue,software_not_responding ,It freezes my entire computer until it closes,it freezes my entire computer until it closes
+software_issue,forgotten_password ,What's the default password?,what's the default password?
+software_issue,forgotten_password ,I think I forgot my new password,i think i forgot my new password
+software_issue,forgotten_password ,"It's not accepting my password, I must have forgotten it","it's not accepting my password, i must have forgotten it"
+software_issue,forgotten_password ,I haven't logged in for a while and forgot my password,i haven't logged in for a while and forgot my password
+software_issue,forgotten_password ,Can you send me a password reset link?,can you send me a password reset link?
+software_issue,forgotten_password ,I don't know what my password is for this system,i don't know what my password is for this system
+software_issue,forgotten_password ,I forgot my password after the vacation,i forgot my password after the vacation
+software_issue,forgotten_password ,"The system isn't recognizing my password, maybe I forgot it","the system isn't recognizing my password, maybe i forgot it"
+software_issue,forgotten_password ,I need help recovering my account password,i need help recovering my account password
+software_issue,forgotten_password ,I can't get into my email because I forgot the password,i can't get into my email because i forgot the password
+software_issue,forgotten_password ,I forgot the password I changed last week,i forgot the password i changed last week
+software_issue,file_corruption ,I get an error when I try to open the file,i get an error when i try to open the file
+software_issue,file_corruption ,The file is corrupted and cannot be opened,the file is corrupted and cannot be opened
+software_issue,file_corruption ,It says the file is damaged,it says the file is damaged
+software_issue,file_corruption ,The document shows as blank or unreadable,the document shows as blank or unreadable
+software_issue,file_corruption ,I get a 'file format is invalid' message,i get a 'file format is invalid' message
+software_issue,file_corruption ,The file won't open and says it's an unsupported format,the file won't open and says it's an unsupported format
+software_issue,file_corruption ,Excel says it found unreadable content,excel says it found unreadable content
+software_issue,file_corruption ,Word says the file is corrupt and cannot be opened,word says the file is corrupt and cannot be opened
+software_issue,file_corruption ,The image file is broken and won't display,the image file is broken and won't display
+software_issue,file_corruption ,The video file is glitchy and won't play properly,the video file is glitchy and won't play properly
+software_issue,file_corruption ,My presentation won't open after I saved it,my presentation won't open after i saved it
+software_issue,file_corruption ,The archive is damaged and cannot be extracted,the archive is damaged and cannot be extracted
+software_issue,file_corruption ,The file size shows as zero bytes,the file size shows as zero bytes
+software_issue,file_corruption ,The database is corrupted and won't load,the database is corrupted and won't load
+software_issue,file_corruption ,The system says the file path is invalid or corrupted,the system says the file path is invalid or corrupted
+software_issue,operating_system_update_error ,My computer is stuck on the update screen,my computer is stuck on the update screen
+software_issue,operating_system_update_error ,The update keeps failing to install,the update keeps failing to install
+software_issue,operating_system_update_error ,I get an error code every time it tries to update,i get an error code every time it tries to update
+software_issue,operating_system_update_error ,It says the update is corrupted,it says the update is corrupted
+software_issue,operating_system_update_error ,My computer is stuck at a certain percentage,my computer is stuck at a certain percentage
+software_issue,operating_system_update_error ,The update is taking forever to download,the update is taking forever to download
+software_issue,operating_system_update_error ,It says the update failed to configure,it says the update failed to configure
+software_issue,operating_system_update_error ,My computer rolled back the changes after an update,my computer rolled back the changes after an update
+software_issue,operating_system_update_error ,I get a blue screen during the update process,i get a blue screen during the update process
+software_issue,operating_system_update_error ,The update won't finish installing,the update won't finish installing
+software_issue,operating_system_update_error ,It says there was a problem with the update,it says there was a problem with the update
+software_issue,operating_system_update_error ,My computer keeps trying and failing to update,my computer keeps trying and failing to update
+software_issue,operating_system_update_error ,The update is stuck in a loop,the update is stuck in a loop
+software_issue,operating_system_update_error ,I get an 'installation failed' message,i get an 'installation failed' message
+software_issue,operating_system_update_error ,My computer won't start properly after an update,my computer won't start properly after an update
+software_issue,cannot_access_shared_drive ,I can't open the shared drive,i can't open the shared drive
+software_issue,cannot_access_shared_drive ,It says I don't have permission to access the folder,it says i don't have permission to access the folder
+software_issue,cannot_access_shared_drive ,The network drive is not showing up,the network drive is not showing up
+software_issue,cannot_access_shared_drive ,I get an 'access denied' error for the shared folder,i get an 'access denied' error for the shared folder
+software_issue,cannot_access_shared_drive ,The shared drive is asking for a password I don't have,the shared drive is asking for a password i don't have
+software_issue,cannot_access_shared_drive ,I can see the folder but I can't open it,i can see the folder but i can't open it
+software_issue,cannot_access_shared_drive ,It says the network path was not found,it says the network path was not found
+software_issue,cannot_access_shared_drive ,My mapped drive has a red X on it,my mapped drive has a red x on it
+software_issue,cannot_access_shared_drive ,I can't save files to the team share,i can't save files to the team share
+software_issue,cannot_access_shared_drive ,The shared drive has disappeared from my computer,the shared drive has disappeared from my computer
+software_issue,cannot_access_shared_drive ,I get a 'location is not available' error,i get a 'location is not available' error
+software_issue,cannot_access_shared_drive ,It says I need administrator permission to access this folder,it says i need administrator permission to access this folder
+software_issue,cannot_access_shared_drive ,The connection to the shared drive keeps dropping,the connection to the shared drive keeps dropping
+software_issue,cannot_access_shared_drive ,I can access it on one computer but not another,i can access it on one computer but not another
+software_issue,cannot_access_shared_drive ,It says the drive is disconnected or unavailable,it says the drive is disconnected or unavailable
+software_issue,audio_not_working ,I have no sound,i have no sound
+software_issue,audio_not_working ,My speakers aren't working,my speakers aren't working
+software_issue,audio_not_working ,The volume is up but I can't hear anything,the volume is up but i can't hear anything
+software_issue,audio_not_working ,My headphones aren't being detected,my headphones aren't being detected
+software_issue,audio_not_working ,There's no audio coming from the computer,there's no audio coming from the computer
+software_issue,audio_not_working ,The sound is crackling or distorted,the sound is crackling or distorted
+software_issue,audio_not_working ,My microphone isn't picking up my voice,my microphone isn't picking up my voice
+software_issue,audio_not_working ,It says 'no audio output device installed',it says 'no audio output device installed'
+software_issue,audio_not_working ,I can't hear anyone on my calls,i can't hear anyone on my calls
+software_issue,audio_not_working ,The sound is coming from the wrong device,the sound is coming from the wrong device
+software_issue,audio_not_working ,My speakers are plugged in but there's no sound,my speakers are plugged in but there's no sound
+software_issue,audio_not_working ,The audio jack isn't working,the audio jack isn't working
+software_issue,audio_not_working ,The sound cuts in and out,the sound cuts in and out
+software_issue,audio_not_working ,People say they can't hear me in meetings,people say they can't hear me in meetings
+software_issue,audio_not_working ,The audio is really quiet even at full volume,the audio is really quiet even at full volume
+software_issue,blue_screen_of_death ,My computer showed a blue screen with an error,my computer showed a blue screen with an error
+software_issue,blue_screen_of_death ,I got the blue screen of death,i got the blue screen of death
+software_issue,blue_screen_of_death ,The computer crashed with a blue error screen,the computer crashed with a blue error screen
+software_issue,blue_screen_of_death ,It restarted and showed a blue screen with a sad face,it restarted and showed a blue screen with a sad face
+software_issue,blue_screen_of_death ,A blue screen popped up and my computer shut down,a blue screen popped up and my computer shut down
+software_issue,blue_screen_of_death ,I'm getting random blue screen errors,i'm getting random blue screen errors
+software_issue,blue_screen_of_death ,My computer keeps blue-screening,my computer keeps blue-screening
+software_issue,blue_screen_of_death ,It showed a blue screen with white text and then rebooted,it showed a blue screen with white text and then rebooted
+software_issue,blue_screen_of_death ,The system crashed with a stop code on a blue screen,the system crashed with a stop code on a blue screen
+software_issue,blue_screen_of_death ,I got a fatal system error on a blue background,i got a fatal system error on a blue background
+software_issue,blue_screen_of_death ,My computer blue-screened while I was working,my computer blue-screened while i was working
+software_issue,blue_screen_of_death ,It displayed a blue screen and is now collecting data,it displayed a blue screen and is now collecting data
+software_issue,blue_screen_of_death ,The blue screen appears every time I start my computer,the blue screen appears every time i start my computer
+software_issue,blue_screen_of_death ,I got a memory management error on a blue screen,i got a memory management error on a blue screen
+software_issue,blue_screen_of_death ,My computer showed a blue screen and won't start properly,my computer showed a blue screen and won't start properly
+software_issue,webpage_loading_error ,The webpage won't load,the webpage won't load
+software_issue,webpage_loading_error ,I'm getting a 404 error,i'm getting a 404 error
+software_issue,webpage_loading_error ,The site is taking forever to load,the site is taking forever to load
+software_issue,webpage_loading_error ,It says 'this page isn't working',it says 'this page isn't working'
+software_issue,webpage_loading_error ,I get a 'connection timed out' message,i get a 'connection timed out' message
+software_issue,webpage_loading_error ,The page is displaying a DNS error,the page is displaying a dns error
+software_issue,webpage_loading_error ,The website is down,the website is down
+software_issue,webpage_loading_error ,I see a 'server not found' error,i see a 'server not found' error
+software_issue,webpage_loading_error ,The page loads but it's all broken and messed up,the page loads but it's all broken and messed up
+software_issue,webpage_loading_error ,I get an 'access denied' error on the webpage,i get an 'access denied' error on the webpage
+software_issue,webpage_loading_error ,It says 'your connection is not private',it says 'your connection is not private'
+software_issue,webpage_loading_error ,The page keeps refreshing but never loads,the page keeps refreshing but never loads
+software_issue,webpage_loading_error ,I get a 'too many redirects' error,i get a 'too many redirects' error
+software_issue,webpage_loading_error ,Only some images on the page are loading,only some images on the page are loading
+software_issue,webpage_loading_error ,The website says 'service unavailable',the website says 'service unavailable'
+hardware_issue,computer_wont_start ,My computer won't turn on,my computer won't turn on
+hardware_issue,computer_wont_start ,Nothing happens when I press the power button,nothing happens when i press the power button
+hardware_issue,computer_wont_start ,There are no lights on my computer,there are no lights on my computer
+hardware_issue,computer_wont_start ,The screen stays black when I try to start it,the screen stays black when i try to start it
+hardware_issue,computer_wont_start ,It's completely dead,it's completely dead
+hardware_issue,computer_wont_start ,I press the power button and get no response,i press the power button and get no response
+hardware_issue,computer_wont_start ,The computer doesn't boot up,the computer doesn't boot up
+hardware_issue,computer_wont_start ,It makes a beeping sound but won't start,it makes a beeping sound but won't start
+hardware_issue,computer_wont_start ,The power is on but the screen is blank,the power is on but the screen is blank
+hardware_issue,computer_wont_start ,It starts to power on but then shuts off immediately,it starts to power on but then shuts off immediately
+hardware_issue,computer_wont_start ,I hear the fans but nothing appears on the screen,i hear the fans but nothing appears on the screen
+hardware_issue,computer_wont_start ,The computer is plugged in but won't start,the computer is plugged in but won't start
+hardware_issue,computer_wont_start ,The power light flashes but it won't boot,the power light flashes but it won't boot
+hardware_issue,computer_wont_start ,It's stuck on the manufacturer's logo screen,it's stuck on the manufacturer's logo screen
+hardware_issue,computer_wont_start ,The computer turns on but the monitor gets no signal,the computer turns on but the monitor gets no signal
+hardware_issue,monitor_no_signal ,My monitor says 'no signal',my monitor says 'no signal'
+hardware_issue,monitor_no_signal ,The screen says 'check video cable',the screen says 'check video cable'
+hardware_issue,monitor_no_signal ,My monitor is on but the screen is black,my monitor is on but the screen is black
+hardware_issue,monitor_no_signal ,It says 'no input detected',it says 'no input detected'
+hardware_issue,monitor_no_signal ,The monitor light is amber instead of blue,the monitor light is amber instead of blue
+hardware_issue,monitor_no_signal ,My screen is blank but the computer is on,my screen is blank but the computer is on
+hardware_issue,monitor_no_signal ,The monitor goes to sleep and won't wake up,the monitor goes to sleep and won't wake up
+hardware_issue,monitor_no_signal ,I get a 'signal out of range' error,i get a 'signal out of range' error
+hardware_issue,monitor_no_signal ,The display is just black with a blinking cursor,the display is just black with a blinking cursor
+hardware_issue,monitor_no_signal ,My second monitor isn't being detected,my second monitor isn't being detected
+hardware_issue,monitor_no_signal ,The monitor works with another computer but not this one,the monitor works with another computer but not this one
+hardware_issue,monitor_no_signal ,The screen flickers and then loses signal,the screen flickers and then loses signal
+hardware_issue,monitor_no_signal ,It says 'no VGA signal' on the display,it says 'no vga signal' on the display
+hardware_issue,monitor_no_signal ,The monitor stays in power save mode,the monitor stays in power save mode
+hardware_issue,monitor_no_signal ,I get a 'cable not connected' message on the screen,i get a 'cable not connected' message on the screen
+hardware_issue,keyboard_key_stuck ,A key on my keyboard is stuck,a key on my keyboard is stuck
+hardware_issue,keyboard_key_stuck ,The spacebar isn't springing back up,the spacebar isn't springing back up
+hardware_issue,keyboard_key_stuck ,My 'E' key is sticking down,my 'e' key is sticking down
+hardware_issue,keyboard_key_stuck ,A key is physically jammed,a key is physically jammed
+hardware_issue,keyboard_key_stuck ,There's something under my keyboard key,there's something under my keyboard key
+hardware_issue,keyboard_key_stuck ,The keycap came off and won't go back on,the keycap came off and won't go back on
+hardware_issue,keyboard_key_stuck ,My keyboard is repeating letters because a key is stuck,my keyboard is repeating letters because a key is stuck
+hardware_issue,keyboard_key_stuck ,The shift key is stuck down,the shift key is stuck down
+hardware_issue,keyboard_key_stuck ,I spilled something and now keys are sticking,i spilled something and now keys are sticking
+hardware_issue,keyboard_key_stuck ,The enter key won't press properly,the enter key won't press properly
+hardware_issue,keyboard_key_stuck ,My backspace key is stuck in the down position,my backspace key is stuck in the down position
+hardware_issue,keyboard_key_stuck ,There's a crunching sound when I press a key,there's a crunching sound when i press a key
+hardware_issue,keyboard_key_stuck ,The key feels mushy and doesn't click anymore,the key feels mushy and doesn't click anymore
+hardware_issue,keyboard_key_stuck ,Multiple keys are stuck together,multiple keys are stuck together
+hardware_issue,keyboard_key_stuck ,The keyboard tray collapsed and now keys are stuck,the keyboard tray collapsed and now keys are stuck
+hardware_issue,mouse_not_detected ,My mouse isn't working,my mouse isn't working
+hardware_issue,mouse_not_detected ,The computer isn't recognizing my mouse,the computer isn't recognizing my mouse
+hardware_issue,mouse_not_detected ,The cursor isn't moving,the cursor isn't moving
+hardware_issue,mouse_not_detected ,My wireless mouse isn't connecting,my wireless mouse isn't connecting
+hardware_issue,mouse_not_detected ,It says 'USB device not recognized' for my mouse,it says 'usb device not recognized' for my mouse
+hardware_issue,mouse_not_detected ,The mouse lights up but doesn't work,the mouse lights up but doesn't work
+hardware_issue,mouse_not_detected ,My Bluetooth mouse won't pair,my bluetooth mouse won't pair
+hardware_issue,mouse_not_detected ,The cursor is frozen on the screen,the cursor is frozen on the screen
+hardware_issue,mouse_not_detected ,I get a 'driver error' for my mouse,i get a 'driver error' for my mouse
+hardware_issue,mouse_not_detected ,The mouse was working and then suddenly stopped,the mouse was working and then suddenly stopped
+hardware_issue,mouse_not_detected ,My mouse won't scroll anymore,my mouse won't scroll anymore
+hardware_issue,mouse_not_detected ,The computer doesn't detect my mouse when I plug it in,the computer doesn't detect my mouse when i plug it in
+hardware_issue,mouse_not_detected ,The right-click button isn't working,the right-click button isn't working
+hardware_issue,mouse_not_detected ,My gaming mouse isn't being detected by its software,my gaming mouse isn't being detected by its software
+hardware_issue,mouse_not_detected ,The mouse pointer disappears from the screen,the mouse pointer disappears from the screen
+hardware_issue,no_network_connection ,I can't connect to the network,i can't connect to the network
+hardware_issue,no_network_connection ,My Wi-Fi isn't showing up,my wi-fi isn't showing up
+hardware_issue,no_network_connection ,It says 'No networks found',it says 'no networks found'
+hardware_issue,no_network_connection ,I'm not connected to any network,i'm not connected to any network
+hardware_issue,no_network_connection ,The Wi-Fi is disabled and I can't enable it,the wi-fi is disabled and i can't enable it
+hardware_issue,no_network_connection ,My Ethernet cable isn't working,my ethernet cable isn't working
+hardware_issue,no_network_connection ,The network adapter has a yellow exclamation mark,the network adapter has a yellow exclamation mark
+hardware_issue,no_network_connection ,I get an 'IP configuration error',i get an 'ip configuration error'
+hardware_issue,no_network_connection ,The network icon has a red X on it,the network icon has a red x on it
+hardware_issue,no_network_connection ,I can't see any available networks,i can't see any available networks
+hardware_issue,no_network_connection ,It says 'Limited connectivity',it says 'limited connectivity'
+hardware_issue,no_network_connection ,My computer won't obtain an IP address,my computer won't obtain an ip address
+hardware_issue,no_network_connection ,The network connections folder is empty,the network connections folder is empty
+hardware_issue,no_network_connection ,I get an 'unidentified network' error,i get an 'unidentified network' error
+hardware_issue,no_network_connection ,The network adapter is missing from Device Manager,the network adapter is missing from device manager
+hardware_issue,printer_paper_jam ,There's a paper jam in the printer,there's a paper jam in the printer
+hardware_issue,printer_paper_jam ,The printer says 'paper jam' but I can't find it,the printer says 'paper jam' but i can't find it
+hardware_issue,printer_paper_jam ,Paper is stuck in the printer,paper is stuck in the printer
+hardware_issue,printer_paper_jam ,It keeps saying 'clear paper path',it keeps saying 'clear paper path'
+hardware_issue,printer_paper_jam ,I pulled out a torn piece of paper and it still says jammed,i pulled out a torn piece of paper and it still says jammed
+hardware_issue,printer_paper_jam ,The printer is jammed and won't print,the printer is jammed and won't print
+hardware_issue,printer_paper_jam ,There's a piece of paper stuck deep inside,there's a piece of paper stuck deep inside
+hardware_issue,printer_paper_jam ,The error light is blinking for a paper jam,the error light is blinking for a paper jam
+hardware_issue,printer_paper_jam ,The paper is wrinkled and stuck in the rollers,the paper is wrinkled and stuck in the rollers
+hardware_issue,printer_paper_jam ,It says 'open door to clear jam',it says 'open door to clear jam'
+hardware_issue,printer_paper_jam ,The paper tray is empty but it says there's a jam,the paper tray is empty but it says there's a jam
+hardware_issue,printer_paper_jam ,The printer makes a grinding noise when I try to print,the printer makes a grinding noise when i try to print
+hardware_issue,printer_paper_jam ,The paper is only halfway through and stuck,the paper is only halfway through and stuck
+hardware_issue,printer_paper_jam ,I cleared one jam but it says there's another,i cleared one jam but it says there's another
+hardware_issue,printer_paper_jam ,The display shows 'jam in rear output',the display shows 'jam in rear output'
+hardware_issue,loud_fan_noise ,My computer fan is really loud,my computer fan is really loud
+hardware_issue,loud_fan_noise ,The fan is making a grinding noise,the fan is making a grinding noise
+hardware_issue,loud_fan_noise ,It sounds like a jet engine taking off,it sounds like a jet engine taking off
+hardware_issue,loud_fan_noise ,There's a rattling sound coming from my computer,there's a rattling sound coming from my computer
+hardware_issue,loud_fan_noise ,The fan is running at full speed all the time,the fan is running at full speed all the time
+hardware_issue,loud_fan_noise ,My laptop is making a whirring noise,my laptop is making a whirring noise
+hardware_issue,loud_fan_noise ,The fan is buzzing loudly,the fan is buzzing loudly
+hardware_issue,loud_fan_noise ,It sounds like something is hitting the fan blades,it sounds like something is hitting the fan blades
+hardware_issue,loud_fan_noise ,The computer is noisier than it used to be,the computer is noisier than it used to be
+hardware_issue,loud_fan_noise ,The fan keeps cycling on and off loudly,the fan keeps cycling on and off loudly
+hardware_issue,loud_fan_noise ,There's a high-pitched whining sound from the fan,there's a high-pitched whining sound from the fan
+hardware_issue,loud_fan_noise ,My computer is vibrating from the fan noise,my computer is vibrating from the fan noise
+hardware_issue,loud_fan_noise ,The fan gets extremely loud when I open certain programs,the fan gets extremely loud when i open certain programs
+hardware_issue,loud_fan_noise ,I hear a clicking sound from the cooling fan,i hear a clicking sound from the cooling fan
+hardware_issue,loud_fan_noise ,The fan is so loud I can't concentrate,the fan is so loud i can't concentrate
+hardware_issue,cracked_laptop_screen ,My laptop screen is cracked,my laptop screen is cracked
+hardware_issue,cracked_laptop_screen ,The display is broken,the display is broken
+hardware_issue,cracked_laptop_screen ,There are black splotches and cracks on the screen,there are black splotches and cracks on the screen
+hardware_issue,cracked_laptop_screen ,The glass is shattered but it still turns on,the glass is shattered but it still turns on
+hardware_issue,cracked_laptop_screen ,I closed my laptop on something and the screen broke,i closed my laptop on something and the screen broke
+hardware_issue,cracked_laptop_screen ,My screen has lines running through it,my screen has lines running through it
+hardware_issue,cracked_laptop_screen ,The LCD is leaking and there's a crack,the lcd is leaking and there's a crack
+hardware_issue,cracked_laptop_screen ,Part of the screen is black and it's cracked,part of the screen is black and it's cracked
+hardware_issue,cracked_laptop_screen ,The touchscreen is cracked and doesn't respond,the touchscreen is cracked and doesn't respond
+hardware_issue,cracked_laptop_screen ,There's a web of cracks across my display,there's a web of cracks across my display
+hardware_issue,cracked_laptop_screen ,My screen got pressed too hard and now it's broken,my screen got pressed too hard and now it's broken
+hardware_issue,cracked_laptop_screen ,The screen is flexing and has cracks along the edge,the screen is flexing and has cracks along the edge
+hardware_issue,cracked_laptop_screen ,It looks like an impact point with cracks spreading out,it looks like an impact point with cracks spreading out
+hardware_issue,cracked_laptop_screen ,The screen is completely shattered but still works,the screen is completely shattered but still works
+hardware_issue,cracked_laptop_screen ,The display has a crack and colorful distorted lines,the display has a crack and colorful distorted lines
+hardware_issue,laptop_battery_drains_quickly ,My laptop battery doesn't last long,my laptop battery doesn't last long
+hardware_issue,laptop_battery_drains_quickly ,The battery is draining too fast,the battery is draining too fast
+hardware_issue,laptop_battery_drains_quickly ,It says my battery health is low,it says my battery health is low
+hardware_issue,laptop_battery_drains_quickly ,My laptop dies even when it says there's charge left,my laptop dies even when it says there's charge left
+hardware_issue,laptop_battery_drains_quickly ,The battery percentage drops really quickly,the battery percentage drops really quickly
+hardware_issue,laptop_battery_drains_quickly ,I only get an hour of battery life,i only get an hour of battery life
+hardware_issue,laptop_battery_drains_quickly ,My laptop won't hold a charge,my laptop won't hold a charge
+hardware_issue,laptop_battery_drains_quickly ,The battery dies much faster than it used to,the battery dies much faster than it used to
+hardware_issue,laptop_battery_drains_quickly ,It shuts down suddenly when it hits 30%,it shuts down suddenly when it hits 30
+hardware_issue,laptop_battery_drains_quickly ,The battery drains even when the laptop is asleep,the battery drains even when the laptop is asleep
+hardware_issue,laptop_battery_drains_quickly ,I have to keep it plugged in all the time,i have to keep it plugged in all the time
+hardware_issue,laptop_battery_drains_quickly ,The battery icon shows a red X,the battery icon shows a red x
+hardware_issue,laptop_battery_drains_quickly ,It says 'consider replacing your battery',it says 'consider replacing your battery'
+hardware_issue,laptop_battery_drains_quickly ,The battery lasts half as long as it did last month,the battery lasts half as long as it did last month
+hardware_issue,laptop_battery_drains_quickly ,My laptop won't power on without the charger plugged in,my laptop won't power on without the charger plugged in
+hardware_issue,external_drive_not_recognized ,My external hard drive isn't showing up,my external hard drive isn't showing up
+hardware_issue,external_drive_not_recognized ,The computer isn't detecting my USB drive,the computer isn't detecting my usb drive
+hardware_issue,external_drive_not_recognized ,I plugged it in but nothing happens,i plugged it in but nothing happens
+hardware_issue,external_drive_not_recognized ,It says 'USB device not recognized',it says 'usb device not recognized'
+hardware_issue,external_drive_not_recognized ,The drive makes a sound but doesn't appear,the drive makes a sound but doesn't appear
+hardware_issue,external_drive_not_recognized ,My flash drive isn't being recognized,my flash drive isn't being recognized
+hardware_issue,external_drive_not_recognized ,It shows up in Devices but not in File Explorer,it shows up in devices but not in file explorer
+hardware_issue,external_drive_not_recognized ,The drive light is on but I can't access it,the drive light is on but i can't access it
+hardware_issue,external_drive_not_recognized ,I get a 'device driver software was not successfully installed' error,i get a 'device driver software was not successfully installed' error
+hardware_issue,external_drive_not_recognized ,The external drive was working yesterday but not today,the external drive was working yesterday but not today
+hardware_issue,external_drive_not_recognized ,It asks me to format the drive when I plug it in,it asks me to format the drive when i plug it in
+hardware_issue,external_drive_not_recognized ,The drive is visible but says 'No Media',the drive is visible but says 'no media'
+hardware_issue,external_drive_not_recognized ,I tried all the USB ports and it won't detect,i tried all the usb ports and it won't detect
+hardware_issue,external_drive_not_recognized ,The drive appears for a second then disappears,the drive appears for a second then disappears
+hardware_issue,external_drive_not_recognized ,It makes a clicking noise and isn't recognized,it makes a clicking noise and isn't recognized
+hardware_issue,webcam_not_functioning ,My webcam isn't working,my webcam isn't working
+hardware_issue,webcam_not_functioning ,The camera isn't turning on,the camera isn't turning on
+hardware_issue,webcam_not_functioning ,I get a black screen in my video calls,i get a black screen in my video calls
+hardware_issue,webcam_not_functioning ,It says 'no camera detected',it says 'no camera detected'
+hardware_issue,webcam_not_functioning ,My webcam light is on but there's no picture,my webcam light is on but there's no picture
+hardware_issue,webcam_not_functioning ,The image is frozen in my video app,the image is frozen in my video app
+hardware_issue,webcam_not_functioning ,I can't switch on my camera in Teams,i can't switch on my camera in teams
+hardware_issue,webcam_not_functioning ,The webcam shows an error when I try to use it,the webcam shows an error when i try to use it
+hardware_issue,webcam_not_functioning ,My built-in camera isn't being recognized,my built-in camera isn't being recognized
+hardware_issue,webcam_not_functioning ,The video is just a black square,the video is just a black square
+hardware_issue,webcam_not_functioning ,It says 'camera is in use by another application',it says 'camera is in use by another application'
+hardware_issue,webcam_not_functioning ,My external webcam isn't detected,my external webcam isn't detected
+hardware_issue,webcam_not_functioning ,The camera picture is extremely dark or blurry,the camera picture is extremely dark or blurry
+hardware_issue,webcam_not_functioning ,I get a 'webcam unavailable' message,i get a 'webcam unavailable' message
+hardware_issue,webcam_not_functioning ,My video is choppy and keeps disconnecting,my video is choppy and keeps disconnecting
+hardware_issue,headset_no_audio_or_mic ,I can't hear anything through my headset,i can't hear anything through my headset
+hardware_issue,headset_no_audio_or_mic ,My microphone isn't picking up my voice,my microphone isn't picking up my voice
+hardware_issue,headset_no_audio_or_mic ,People can't hear me in calls,people can't hear me in calls
+hardware_issue,headset_no_audio_or_mic ,The headset is plugged in but there's no sound,the headset is plugged in but there's no sound
+hardware_issue,headset_no_audio_or_mic ,My headset isn't being detected,my headset isn't being detected
+hardware_issue,headset_no_audio_or_mic ,The sound is still coming from the speakers,the sound is still coming from the speakers
+hardware_issue,headset_no_audio_or_mic ,It says 'no audio device is installed' with my headset,it says 'no audio device is installed' with my headset
+hardware_issue,headset_no_audio_or_mic ,The microphone shows no input level,the microphone shows no input level
+hardware_issue,headset_no_audio_or_mic ,I can hear but I can't speak,i can hear but i can't speak
+hardware_issue,headset_no_audio_or_mic ,My USB headset isn't working,my usb headset isn't working
+hardware_issue,headset_no_audio_or_mic ,The headset works on my phone but not my computer,the headset works on my phone but not my computer
+hardware_issue,headset_no_audio_or_mic ,There's a lot of static in my microphone,there's a lot of static in my microphone
+hardware_issue,headset_no_audio_or_mic ,The audio is crackling and cutting out,the audio is crackling and cutting out
+hardware_issue,headset_no_audio_or_mic ,My Bluetooth headset won't connect for audio,my bluetooth headset won't connect for audio
+hardware_issue,headset_no_audio_or_mic ,The computer isn't switching to my headset when I plug it in,the computer isn't switching to my headset when i plug it in
+hardware_issue,overheating_computer ,My computer is really hot to the touch,my computer is really hot to the touch
+hardware_issue,overheating_computer ,The fan is running constantly and it's very warm,the fan is running constantly and it's very warm
+hardware_issue,overheating_computer ,It randomly shuts down because it's overheating,it randomly shuts down because it's overheating
+hardware_issue,overheating_computer ,The bottom of my laptop is too hot to hold,the bottom of my laptop is too hot to hold
+hardware_issue,overheating_computer ,I get a warning message about high temperature,i get a warning message about high temperature
+hardware_issue,overheating_computer ,The computer feels like it's burning up,the computer feels like it's burning up
+hardware_issue,overheating_computer ,It's so hot I can smell plastic or electronics,it's so hot i can smell plastic or electronics
+hardware_issue,overheating_computer ,The performance gets really slow when it gets hot,the performance gets really slow when it gets hot
+hardware_issue,overheating_computer ,My laptop gets hot even when I'm not doing much,my laptop gets hot even when i'm not doing much
+hardware_issue,overheating_computer ,The keyboard is uncomfortably warm to type on,the keyboard is uncomfortably warm to type on
+hardware_issue,overheating_computer ,It makes a loud fan noise and then turns off,it makes a loud fan noise and then turns off
+hardware_issue,overheating_computer ,I see thermal throttling warnings,i see thermal throttling warnings
+hardware_issue,overheating_computer ,The computer restarts by itself when it gets too hot,the computer restarts by itself when it gets too hot
+hardware_issue,overheating_computer ,There's heat coming out of the vents that seems excessive,there's heat coming out of the vents that seems excessive
+hardware_issue,overheating_computer ,My graphics card is running at very high temperatures,my graphics card is running at very high temperatures
+hardware_issue,faulty_power_supply ,My computer randomly shuts off,my computer randomly shuts off
+hardware_issue,faulty_power_supply ,It won't turn on unless I jiggle the power cord,it won't turn on unless i jiggle the power cord
+hardware_issue,faulty_power_supply ,I smell something burning from the power supply,i smell something burning from the power supply
+hardware_issue,faulty_power_supply ,The computer restarts by itself,the computer restarts by itself
+hardware_issue,faulty_power_supply ,There's a buzzing sound coming from the back of the computer,there's a buzzing sound coming from the back of the computer
+hardware_issue,faulty_power_supply ,The power light flickers when I try to turn it on,the power light flickers when i try to turn it on
+hardware_issue,faulty_power_supply ,It turns on for a second and then immediately turns off,it turns on for a second and then immediately turns off
+hardware_issue,faulty_power_supply ,I see sparks or smoke from the power supply unit,i see sparks or smoke from the power supply unit
+hardware_issue,faulty_power_supply ,My computer loses power during heavy use,my computer loses power during heavy use
+hardware_issue,faulty_power_supply ,The power supply fan is making a grinding noise,the power supply fan is making a grinding noise
+hardware_issue,faulty_power_supply ,It doesn't get any power at all,it doesn't get any power at all
+hardware_issue,faulty_power_supply ,The computer crashes when I plug in another device,the computer crashes when i plug in another device
+hardware_issue,faulty_power_supply ,My peripherals keep disconnecting and reconnecting,my peripherals keep disconnecting and reconnecting
+hardware_issue,faulty_power_supply ,There's a burning electronics smell coming from the tower,there's a burning electronics smell coming from the tower
+hardware_issue,faulty_power_supply ,The system is unstable and I'm getting random blue screens,the system is unstable and i'm getting random blue screens
+hardware_issue,broken_ethernet_port ,My Ethernet cable won't click into the port,my ethernet cable won't click into the port
+hardware_issue,broken_ethernet_port ,The network port feels loose when I plug in the cable,the network port feels loose when i plug in the cable
+hardware_issue,broken_ethernet_port ,The Ethernet cable keeps falling out,the ethernet cable keeps falling out
+hardware_issue,broken_ethernet_port ,The plastic tab inside the port is broken off,the plastic tab inside the port is broken off
+hardware_issue,broken_ethernet_port ,I can't get a wired internet connection,i can't get a wired internet connection
+hardware_issue,broken_ethernet_port ,The Ethernet port looks damaged inside,the ethernet port looks damaged inside
+hardware_issue,broken_ethernet_port ,The cable only works if I hold it at an angle,the cable only works if i hold it at an angle
+hardware_issue,broken_ethernet_port ,Something is stuck inside the Ethernet port,something is stuck inside the ethernet port
+hardware_issue,broken_ethernet_port ,The port doesn't recognize when I plug in a cable,the port doesn't recognize when i plug in a cable
+hardware_issue,broken_ethernet_port ,The network icon shows a red X even with the cable plugged in,the network icon shows a red x even with the cable plugged in
+hardware_issue,broken_ethernet_port ,The lights around the Ethernet port don't light up,the lights around the ethernet port don't light up
+hardware_issue,broken_ethernet_port ,The metal contacts inside the port look bent,the metal contacts inside the port look bent
+hardware_issue,broken_ethernet_port ,My computer says 'network cable unplugged' when it's plugged in,my computer says 'network cable unplugged' when it's plugged in
+hardware_issue,broken_ethernet_port ,The port is physically cracked or broken,the port is physically cracked or broken
+hardware_issue,broken_ethernet_port ,I get no internet through the wired connection,i get no internet through the wired connection
